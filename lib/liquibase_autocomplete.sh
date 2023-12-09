@@ -1,3 +1,4 @@
+#test
 _liquibase()
 {
     local cur prev opts
